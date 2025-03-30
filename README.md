@@ -1,3 +1,5 @@
+This script only accepts ssh and apache log files. More information in the future.
+
 usage: log_analyzer.py [-h] --file FILE --type {ssh,apache} [--output OUTPUT] [--format {txt,html}] [--threshold THRESHOLD] [--window WINDOW] [--ddos-threshold DDOS_THRESHOLD]
 
 Security Log Analyzer by Sophea Phin
