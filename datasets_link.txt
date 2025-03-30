@@ -1,0 +1,3 @@
+SSH: https://www.kaggle.com/datasets/omduggineni/loghub-ssh-log-data?resource=download
+
+APACHE : https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs
